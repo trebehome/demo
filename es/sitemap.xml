@@ -110,60 +110,6 @@
                 href="https://trebehome.github.io/demo/es/&#43;/record/"
                 />
   </url><url>
-    <loc>https://trebehome.github.io/demo/es/recorder/record/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eu"
-                href="https://trebehome.github.io/demo/eu/recorder/record/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trebehome.github.io/demo/en/recorder/record/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://trebehome.github.io/demo/ca/recorder/record/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl"
-                href="https://trebehome.github.io/demo/gl/recorder/record/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://trebehome.github.io/demo/es/recorder/record/"
-                />
-  </url><url>
-    <loc>https://trebehome.github.io/demo/es/recorder/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="eu"
-                href="https://trebehome.github.io/demo/eu/recorder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trebehome.github.io/demo/en/recorder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://trebehome.github.io/demo/ca/recorder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl"
-                href="https://trebehome.github.io/demo/gl/recorder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://trebehome.github.io/demo/es/recorder/"
-                />
-  </url><url>
     <loc>https://trebehome.github.io/demo/es/request/</loc>
     <xhtml:link
                 rel="alternate"
